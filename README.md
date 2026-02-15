@@ -10,11 +10,11 @@ Step 2: Wiener collaborative filtering
 A custom image signal processing pipeline designed for processing raw Bayer sensor dumps stored in a specific binary layout (fixed header offset + 16-bit pixel array). It reads raw pixels into a 2D buffer, performs black / white balance, demosaicking (color interpolation), color correction, gamma, tone mapping, edge enhancement, and exports to BMP.
 
 Output image samples:
-[DSC00544.SRF.clear.bmp](https://github.com/user-attachments/files/25320098/DSC00524.SRF.clear.bmp)
-[DSC00522.SRF.clear.bmp](https://github.com/user-attachments/files/25320097/DSC00522.SRF.clear.bmp)
-[DSC00488.SRF.clear.bmp](https://github.com/user-attachments/files/25320096/DSC00488.SRF.clear.bmp)
-[DSC00479.SRF.clear.bmp](https://github.com/user-attachments/files/25320095/DSC00479.SRF.clear.bmp)
-[DSC00476.SRF.clear.bmp](https://github.com/user-attachments/files/25320094/DSC00476.SRF.clear.bmp)
-[DSC00475.SRF.clear.bmp](https://github.com/user-attachments/files/25320092/DSC00475.SRF.clear.bmp)
-[DSC00474.SRF.clear.bmp](https://github.com/user-attachments/files/25320091/DSC00474.SRF.clear.bmp)
 
+[DSC00475.SRF.clear.bmp](https://github.com/user-attachments/files/25320109/DSC00475.SRF.clear.bmp)
+[DSC00474.SRF.clear.bmp](https://github.com/user-attachments/files/25320108/DSC00474.SRF.clear.bmp)
+[DSC00476.SRF.clear.bmp](https://github.com/user-attachments/files/25320110/DSC00476.SRF.clear.bmp)
+[DSC00479.SRF.clear.bmp](https://github.com/user-attachments/files/25320111/DSC00479.SRF.clear.bmp)
+[DSC00488.SRF.clear.bmp](https://github.com/user-attachments/files/25320112/DSC00488.SRF.clear.bmp)
+[DSC00522.SRF.clear.bmp](https://github.com/user-attachments/files/25320113/DSC00522.SRF.clear.bmp)
+[DSC00524.SRF.clear.bmp](https://github.com/user-attachments/files/25320115/DSC00524.SRF.clear.bmp)
