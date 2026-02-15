@@ -9,9 +9,12 @@ Step 2: Wiener collaborative filtering
 
 Simply run ./bm3d <file-name> to process an image.
 
-Pre-processed image:![billevans](https://github.com/user-attachments/assets/344cd414-0b4d-4f1a-8886-18dd3e905479)
+Pre-processed image:
+![Alt text](/code/finalBill.png?raw=true "Bill")
+![billevans](https://github.com/user-attachments/assets/344cd414-0b4d-4f1a-8886-18dd3e905479)
 
-Processed image: <img width="1546" height="1068" alt="finalBill" src="https://github.com/user-attachments/assets/cf76fb73-b50c-40da-8c0f-5d488ac97463" />
+Processed image: 
+<img width="1546" height="1068" alt="finalBill" src="https://github.com/user-attachments/assets/cf76fb73-b50c-40da-8c0f-5d488ac97463" />
 
 
 
