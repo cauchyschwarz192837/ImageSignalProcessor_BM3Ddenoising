@@ -27,7 +27,7 @@ Step 2: Wiener collaborative filtering
 
 Simply run ./bm3d file-name to process an image.
 
-Pre-processed image (none other than Bill Evans):
+Pre-processed image (none other than THE GOAT Bill Evans):
 
 ![Alt text](/code/billevans.png?raw=true "BillPre")
 
