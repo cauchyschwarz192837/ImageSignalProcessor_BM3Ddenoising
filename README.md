@@ -5,7 +5,7 @@ This repository contains two image-processing programs
 # A C++ Image Signal Processing Pipeline for RAW Sensor Processing (image.cpp)
 A custom image signal processing pipeline designed for processing raw Bayer sensor dumps stored in a specific binary layout (fixed header offset + 16-bit pixel array). It reads raw pixels into a 2D buffer, performs black / white balance, demosaicking (color interpolation), color correction, gamma, tone mapping, edge enhancement, and exports to BMP.
 
-Simply run ./image <file-name> to process an image (Note that images must be of the correct format)
+Simply run ./image file-name to process an image (Note that images must be of the correct format)
 
 Output image samples:
 
