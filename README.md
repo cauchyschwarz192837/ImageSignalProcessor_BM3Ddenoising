@@ -4,10 +4,11 @@ This repository contains two image-processing programs:
 A classic state-of-the-art denoising pipeline that groups similar image patches, applies collaborative filtering in a 3D transform domain, and aggregates overlapping estimates. 
 Referred to An Analysis and Implementation of the BM3D Image Denoising Method by Marc Lebrun (2012). Implemented as a two-stage BM3D pipeline:
 
-Step 1: Hard-thresholding collaborative filtering $\newline$
+Step 1: Hard-thresholding collaborative filtering  
+
 Step 2: Wiener collaborative filtering
 
-Simply run $./bm3d <file-name>$ to process an image.
+Simply run ./bm3d file-name to process an image.
 
 Pre-processed image:
 
