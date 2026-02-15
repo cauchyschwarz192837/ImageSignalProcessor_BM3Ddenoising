@@ -18,10 +18,6 @@ Pre-processed image:
 Processed image:
 ![Alt text](/code/finalBill.png?raw=true "BillFinal")
 
-Processed image: 
-<img width="1546" height="1068" alt="finalBill" src="https://github.com/user-attachments/assets/cf76fb73-b50c-40da-8c0f-5d488ac97463" />
-
-
 
 # A C++ Image Signal Processing Pipeline for RAW Sensor Processing (image.cpp)
 A custom image signal processing pipeline designed for processing raw Bayer sensor dumps stored in a specific binary layout (fixed header offset + 16-bit pixel array). It reads raw pixels into a 2D buffer, performs black / white balance, demosaicking (color interpolation), color correction, gamma, tone mapping, edge enhancement, and exports to BMP.
